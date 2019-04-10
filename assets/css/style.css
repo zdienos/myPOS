@@ -1,0 +1,109 @@
+.dashboard{
+	background-color: #b7ad61;
+}
+
+.form-login{
+	border: 2px solid #eee;
+	padding: 20px;	
+	margin-top:100px;
+}
+
+.navbar-bg{
+	background-color: #44412a;
+	border: none;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #888;
+}
+
+.table-bg{
+	background-color: #75714f;
+	color: white;
+	border: 
+}
+
+.box-menu{
+	padding: 20px;
+	height: 150px;
+}
+
+.header-text{
+ font-size: 36px;
+}
+
+.white{
+	color: white !important;
+}
+
+.hr-top{
+	margin-top: 0px;
+	border-top: 2px solid #a2a2a2;
+}
+
+.hr-top-white{
+	margin-top: 0px;
+	border-top: 2px solid white;
+}
+
+.top{
+	margin-top: 10px;
+	color: #000;
+}
+
+.top-modal{
+	margin-top: 10px;
+	color: #000;
+}
+
+.right-side{
+	margin-top: 4px;
+}
+
+.form-top{
+	display: block;
+    width: 100%;
+    padding: 6px 12px;
+}
+
+.card-1 {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.card-1:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.text-white{
+	color: white;
+	text-decoration: none;
+}
+
+.top-menu{
+	margin-top: 10px;
+}
+
+.invoice-title h2, .invoice-title h3 {
+    display: inline-block;
+}
+
+.table > tbody > tr > .no-line {
+    border-top: none;
+}
+
+.table > thead > tr > .no-line {
+    border-bottom: none;
+}
+
+.table > tbody > tr > .thick-line {
+    border-top: 2px solid;
+}
+
+.logo{
+	width: 30%;
+}
+
+.body{
+	background-color: #2f2d1e;
+}
